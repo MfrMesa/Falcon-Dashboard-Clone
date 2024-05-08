@@ -13,6 +13,6 @@ Entregado dentro del plazo de un mes. Estamos orgullosos de nuestro trabajo y de
 Quiero agradecer a mis compañeros de equipo por su dedicación y contribución al proyecto:
 
 Imad del Founti (github.com/Imadefc) </br>
-Enrique Ghijs (github.com/Bees7nees)
-Daniel Tibamoza (github.com/Dtibamoza96)
-Emilio Cazalla (github.com/EMILIOFC1996)
+Enrique Ghijs (github.com/Bees7nees) </br>
+Daniel Tibamoza (github.com/Dtibamoza96) </br>
+Emilio Cazalla (github.com/EMILIOFC1996) </br>
