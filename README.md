@@ -1,16 +1,16 @@
 # Falcon-Dashboard-Clone
 
-Proyecto realizado como evaluación del Bootcamp Full Stack Developer de Develhope.
+Project carried out as an evaluation of the Develhope Full Stack Developer Bootcamp.
 
-Dirigí y lideré este proyecto, donde nuestro objetivo principal fue hacer un clone de la Landing Page del Falcon Dashboard.
+I directed and led this project, where our main objective was to make a clone of the Falcon Dashboard Landing Page.
 
-Mi responsabilidad principal fue la creación del sidebar, el carrito de compras y la estructura de las tarjetas centrales. Trabajamos intensamente con HTML, CSS para diseño adaptable (responsive) y JavaScript para la lógica de interacción. Además, gestionamos eficientemente nuestro trabajo utilizando herramientas como Trello para la gestión de tareas y Github para el control de versiones.
+My main responsibility was the creation of the sidebar, the shopping cart and the structure of the central cards. We work intensively with HTML, CSS for responsive design and JavaScript for interaction logic. Additionally, we efficiently manage our work using tools like Trello for task management and Github for version control.
 
-Afrontamos diversos desafíos durante el proyecto, desde la implementación de funcionalidades complejas hasta la coordinación del equipo y la gestión del tiempo. Superamos estos desafíos con un enfoque colaborativo y resolutivo, aprovechando nuestras habilidades individuales y trabajando en estrecha colaboración para alcanzar nuestros objetivos.
+We faced various challenges during the project, from implementing complex functionalities to team coordination and time management. We overcome these challenges with a collaborative and purposeful approach, leveraging our individual skills and working closely to achieve our goals.
 
-Entregado dentro del plazo de un mes. Estamos orgullosos de nuestro trabajo y de la colaboración que llevó al éxito del proyecto.
+Delivered within a month. We are proud of our work and the collaboration that led to the success of the project.
 
-Quiero agradecer a mis compañeros de equipo por su dedicación y contribución al proyecto:
+I want to thank my teammates for their dedication and contribution to the project:
 
 Imad del Founti (github.com/Imadefc) </br>
 Enrique Ghijs (github.com/Bees7nees) </br>
