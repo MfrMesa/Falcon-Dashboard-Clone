@@ -15,7 +15,7 @@ Delivered within a month. We are proud of our work and the collaboration that le
   CSS  </br>
   JAVASCRIPT </br>
 
-# How to iniciate the project:
+# How to initiate the project:
 
   1) Download the Files:
      Download the game source code from the GitHub repository or clone it using Git.
