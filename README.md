@@ -21,7 +21,7 @@ Delivered within a month. We are proud of our work and the collaboration that le
      Download the game source code from the GitHub repository or clone it using Git.
 
   2) Open the HTML File:
-     Once downloaded, navigate to the game folder on your computer. Open the index.html file in your preferred web browser.
+     Once downloaded. Open the index.html file in your preferred web browser.
 
 # Collaborators:
 
