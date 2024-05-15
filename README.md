@@ -3,9 +3,9 @@
 Project carried out as an evaluation of the Develhope Full Stack Developer Bootcamp.
 
 # Tech Stack: 
-  HTML
-  CSS
-  JAVASCRIPT
+  HTML </br>
+  CSS  </br>
+  JAVASCRIPT </br>
 
 I directed and led this project, where our main objective was to make a clone of the Falcon Dashboard Landing Page.
 
