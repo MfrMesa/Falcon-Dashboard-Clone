@@ -23,7 +23,9 @@ Delivered within a month. We are proud of our work and the collaboration that le
   2) Open the HTML File:
      Once downloaded, navigate to the game folder on your computer. Open the index.html file in your preferred web browser.
 
-# I want to thank my teammates for their dedication and contribution to the project:
+# Collaborators:
+
+I want to thank my teammates for their dedication and contribution to the project:
 
 Imad del Founti (github.com/Imadefc) </br>
 Enrique Ghijs (github.com/Bees7nees) </br>
